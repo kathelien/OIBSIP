@@ -27,6 +27,3 @@ This analysis helps identify sales patterns and supports better business decisio
 
 The project demonstrates how exploratory data analysis and data visualization can help transform retail sales data into useful business insights.
 
-[Colab paid products](https://colab.research.google.com/signup?utm_source=footer\&utm_medium=link\&utm_campaign=footer_links)-[Cancel contracts here](https://colab.research.google.com/cancel-subscription)
-
-&#x20;pdf la ithu ellam illana  paravalaya
