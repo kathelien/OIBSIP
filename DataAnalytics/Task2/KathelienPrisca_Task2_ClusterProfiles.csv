@@ -1,0 +1,5 @@
+Cluster,CustomerCount,AvgRecency,AvgFrequency,AvgMonetary,AvgPurchaseValue,AvgHistoricalSpend
+0,3201,43.07,4.43,1710.8,377.73,1710.8
+1,1047,242.98,1.66,596.88,345.32,596.88
+2,5,5.6,113.6,215543.67,2235.08,215543.67
+3,59,14.27,46.03,28018.43,838.91,28018.43
